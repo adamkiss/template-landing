@@ -1,6 +1,6 @@
 # Template - Landing page
 
-Minimalistic landing page template for main domain of seasonal projects, WIP domains etc. Even with a complicated SVG logo should fit under 14kB (single packet)
+Minimalistic landing page template for main domain of seasonal projects, WIP domains etc. Centered inline SVG logo, centered CSS.
 
 ## License
 
